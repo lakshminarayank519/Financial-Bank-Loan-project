@@ -40,6 +40,13 @@ DASHBOARD 3: DETAILS
 GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 
+## DashBoard Interactions
+- <a href="https://github.com/lakshminarayank519/Financial-Bank-Loan-project/blob/main/Summary.png">View Point</a>
+- <a href="https://github.com/lakshminarayank519/Financial-Bank-Loan-project/blob/main/Overview.png">View Point</a>
+- <a href="https://github.com/lakshminarayank519/Financial-Bank-Loan-project/blob/main/Details.png">View Point</a>
+
+
+
 
 
                                                
