@@ -44,6 +44,9 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 - <a href="https://github.com/lakshminarayank519/Financial-Bank-Loan-project/blob/main/Summary.png">View Point</a>
 - <a href="https://github.com/lakshminarayank519/Financial-Bank-Loan-project/blob/main/Overview.png">View Point</a>
 - <a href="https://github.com/lakshminarayank519/Financial-Bank-Loan-project/blob/main/Details.png">View Point</a>
+## DashBoard
+![Details](https://github.com/user-attachments/assets/36f522e3-c363-498d-b839-879c8c1012c8)
+
 
 
 
